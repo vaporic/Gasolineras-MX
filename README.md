@@ -1,6 +1,6 @@
 #### Aplicaci&oacute;n para evaluar el karma de las gasolineras que frecuentas.
 
-> Desarrollado por:
+> _Desarrollado por:_
 
 > * @vaporic
 > * @dancovarrubias
