@@ -2,6 +2,5 @@
 
 > _Desarrollado por:_
 
+> * @softcoders
 > * @vaporic
-> * @dancovarrubias
-> * @marianin7
